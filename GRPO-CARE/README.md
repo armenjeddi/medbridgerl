@@ -1,4 +1,4 @@
-## Note: We use the GRPO-CARE implementation for this work. We slightly simply the main grpo.py file
+## Note: We use the GRPO-CARE implementation for this work. We slightly simplify the main grpo.py file
 
 
 <div align="center">
