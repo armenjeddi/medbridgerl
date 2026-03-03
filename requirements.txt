@@ -1,0 +1,8 @@
+# preferably python==3.11.5
+
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.57.0
+flash-attn==2.57.0 ## install with pip install flash-attn==2.57.0 --no-deps
+qwen-vl-utils==0.0.14 
+
