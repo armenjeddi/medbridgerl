@@ -275,3 +275,18 @@ FlashAttention issues:
 Run:
 
     python inference.py ... --attn_impl eager
+
+## Citation
+If you find this work useful, please give us a citation:
+```bibtex
+@misc{jeddi2026doesrlhelpmedical,
+      title={When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains}, 
+      author={Ahmadreza Jeddi and Kimia Shaban and Negin Baghbanzadeh and Natasha Sharan and Abhishek Moturu and Elham Dolatabadi and Babak Taati},
+      year={2026},
+      eprint={2603.01301},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.01301}, 
+}
+```
+
