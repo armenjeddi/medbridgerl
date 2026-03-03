@@ -11,7 +11,7 @@
 </a>
 
 **Authors:**  
-[Ahmadreza Jeddi*](https://armenjeddi.github.io/), Kimia Shaban*, Negin Baghbanzadeh*, Natasha Sharan, Abhishek Moturu, [Babak Taati](https://www.cs.toronto.edu/~taati/)
+[Ahmadreza Jeddi*](https://armenjeddi.github.io/), [Kimia Shaban*](https://kimiashaban.github.io/), Negin Baghbanzadeh*, Natasha Sharan, Abhishek Moturu, [Babak Taati](https://www.cs.toronto.edu/~taati/)
 <br>
 
 ![MedBridgeRL](assets/medbridgerl.png)
