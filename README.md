@@ -6,7 +6,7 @@
 <a target="_blank" href="https://medbridgerl.github.io/">
   <img style="height:22pt" src="https://img.shields.io/badge/-🌐%20Website-blue?style=flat">
 </a>
-<a target="_blank" href="">
+<a target="_blank" href="https://huggingface.co/armenjeddi/MedBridgeRL-OctoMed-7B-PMC-VQA-RL">
   <img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Models-red?style=flat">
 </a>
 
